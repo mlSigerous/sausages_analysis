@@ -34,7 +34,7 @@ DiD = (Test_after − Test_before) − (Control_after − Control_before)
 
 ## Результаты
 
-Итоговые значения сохранены в showbox_results.xlsx` (лист `Summary`).
+Итоговые значения сохранены в showbox_results.xlsx (лист "Summary").
 
 Все сосиски Останкино (Jan):
 DiD = -1.046 кг/магазин-день  
